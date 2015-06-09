@@ -2,7 +2,13 @@
 
 A PHP Class that can parse CSS and return the results in a PHP array.
 
-NOTE: **PHP-CSS-Parser** utilizes [Loco Parser Library](http://qntm.org/loco).
+NOTE: **PHP CSS Parser** utilizes [Loco Parser Library](http://qntm.org/loco).
+
+#Support
+The following were currently not yet added to **PHP CSS Parser**'s grammar:
+- Comments ( /**/ )
+- Media Queries ( @cond etc and etc { block {} } )
+- At-rules ( @rule )
 
 usage:
 ```php
