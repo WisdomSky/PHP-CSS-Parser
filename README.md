@@ -2,6 +2,8 @@
 
 A PHP Class that can parse CSS and return the results in a PHP array.
 
+NOTE: **PHP-CSS-Parser** utilizes [Loco Parser Library](http://qntm.org/loco).
+
 usage:
 ```php
 
