@@ -1,4 +1,4 @@
-# PHP-CSS-Parser-
+# PHP-CSS-Parser
 
 A PHP Class that can parse CSS and return the results in a PHP array.
 
